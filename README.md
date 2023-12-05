@@ -1,4 +1,4 @@
-# My scoreboard projects
+# Thy scoreboard projects
 
 Quick start:
 
